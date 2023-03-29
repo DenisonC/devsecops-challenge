@@ -1,4 +1,5 @@
-Para instanciar uma máquina virtual (VM) na Amazon Web Services (AWS), siga os seguintes passos:
+Com a Amazon Web Services (AWS), vamos utilizar o terraform como IAC para o provisionamento da instância EC2
+-----------------------------------------
 
 Acesse o console da AWS em https://aws.amazon.com/ e faça login na sua conta.
 
